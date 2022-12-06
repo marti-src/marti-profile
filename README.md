@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://twitter.com/MartiMcdee/photo" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">I'm Marti, a full-time full-stack freelance developer 👨‍💻 working remotely since Jan 2022 🚀</div>  
   
 
