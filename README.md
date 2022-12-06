@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Marti, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Marti, a full-time full-stack freelance developer 👨‍💻 working remotely since Jan 2022 🚀</div>  
   
 
 - 🔭 Welcome to my GitHub profile!
