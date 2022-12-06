@@ -20,7 +20,8 @@ Marti
 - ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-- ⚡ Fun fact: I use tabs over spaces  
+- ⚡ Fun fact: I'm learning Chinese on DuoLingo. 
+      Come join me! https://www.duolingo.com/profile/MartiMcdee
   
 
 <br/>  
