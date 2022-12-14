@@ -14,7 +14,7 @@ Best,
 Marti  
   
 
-- 🌱 I’m currently learning Solidity and Smart Contracts  
+- 🌱 I’m currently learning React Native and Kotlin
   
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
