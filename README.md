@@ -1,11 +1,13 @@
-### <div align="center">I'm Marti, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
+### <div align="center">I'm Marti, a freelance software developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 Welcome to my GitHub profile!
+- 🚀 Discover the Innovative Projects in My Portfolio!
 
-Click on any of the icons under the <b>Organizations section (left)</b>. There you'll find collections of my personal projects and the open source contributions I've made, sorted by distribution platform. Feel free to take a look around and check out my work!
+Welcome to my professional portfolio! On this page, you can find a list of my most notable projects in the fields of programming and technology. To browse through these projects, please visit the "Organizations" section on the left side of the page. Here, you will find a separate organization setup for each platform that I have developed for.
 
-If you have any questions or feedback, please don't hesitate to reach out. I'm always happy to help and I appreciate any constructive criticism.
+In addition to these projects, the main (marti-McDee) repository contains my test projects which I use to train myself on the fundamental concepts of various programming languages and technologies. These projects are an important part of my learning and development process, and I hope you find them interesting as well.
+
+If you are interested in working with me, I am currently seeking employment opportunities, whether it be full-time, part-time, or contract. For more information, please visit my Linkedin page using the link below.
 
 Thanks for stopping by!
 
