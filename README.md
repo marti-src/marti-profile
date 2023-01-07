@@ -3,7 +3,7 @@
 
 - 🔭 Welcome to my GitHub profile!
 
-Click on any of the icons under the <em>Organizations section (left)</em>. There you'll find collections of my personal projects and the open source contributions I've made, sorted by distribution platform. Feel free to take a look around and check out my work!
+Click on any of the icons under the <strong>Organizations section (left)</strong>. There you'll find collections of my personal projects and the open source contributions I've made, sorted by distribution platform. Feel free to take a look around and check out my work!
 
 If you have any questions or feedback, please don't hesitate to reach out. I'm always happy to help and I appreciate any constructive criticism.
 
