@@ -3,7 +3,7 @@
 
 - 🚀 Discover the Innovative Projects in My Portfolio!
 
-Welcome to my professional portfolio! On this page, you can find a list of my most notable projects in the fields of programming and technology. To browse through these projects, please visit the "Organizations" section on the left side of the page. Here, you will find a separate organization setup for each platform that I have developed for.
+Welcome to my professional portfolio! On this page, you can find a list of my most notable projects in the fields of programming and technology. To browse through these projects, please <h4>visit the "Organizations" section on the left side of the page</h4>. Here, you will find a separate organization setup for each platform that I have developed for.
 
 In addition to these projects, the main (marti-McDee) repository contains my test projects which I use to train myself on the fundamental concepts of various programming languages and technologies. These projects are an important part of my learning and development process, and I hope you find them interesting as well.
 
