@@ -1,7 +1,4 @@
-### <div align="center">I'm Marti, a freelance software developer 👨‍💻 working remotely since 2022 🚀</div>  
-  
-
-- 🚀 Discover the Innovative Projects in My Portfolio!
+ - 🚀 Discover the Innovative Projects in My Portfolio!
 
 Welcome to my professional portfolio! On this page, you can find a list of my most notable projects in the fields of programming and technology. To browse through these projects, please <strong style="font-size: larger;">visit the "Organizations" section on the left side of the page</strong>. Here, you will find a separate organization setup for each platform that I have developed for.
 
